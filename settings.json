@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "PHNX | 24/7 Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "pphoenixsmp.play.hosting",
+    "port": 25749,
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
@@ -32,20 +32,20 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "https://discord.gg/JAd9R534Hf!",
         "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 20,
     "max-reconnect-delay": 120000
   },
   "movement": {
     "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 4,
+      "radius": 9,
       "speed": 3000
     },
     "look-around": {
